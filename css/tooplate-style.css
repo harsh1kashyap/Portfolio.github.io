@@ -447,6 +447,7 @@ b, strong {
   border-radius: 0 0 3px 3px;
   position: relative;
   bottom: 8px;
+  width: 100%;
 }
 .contact-info p, .contact-info a {
   color: #f7f3f3;
@@ -563,6 +564,7 @@ b, strong {
   .social-links li {
     display: inline-block;
     vertical-align: top;
+    padding: 10px;
   }
 }
 
@@ -570,6 +572,7 @@ b, strong {
 .aboutA {
   background: rgb(224, 219, 219);
   height: 90vh;
+  width: 100%;
 }
 .heading {
   padding-left: 200px;
@@ -665,6 +668,7 @@ b, strong {
 @media screen and (max-width: 580px) {
   .aboutA{
     height: auto;
+    width: 100%;
   }
   .heading{
     padding-left: 65px;
